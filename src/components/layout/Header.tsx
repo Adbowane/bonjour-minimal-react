@@ -25,8 +25,9 @@ const Header = () => {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-              <Leaf className="h-6 w-6 text-primary-foreground" />
+            <div>
+              {/* <Leaf className="h-6 w-6 text-primary-foreground" /> */}
+              <img src="/src/Assets/01_logos-identite/cropped-Logo_Re-plantes_Seul_FondTransparent-270x270.png" alt="Logo" className="h-11 w-11 text-primary-foreground" />
             </div>
             <div className="hidden sm:block">
               <h1 className="text-xl font-bold text-primary">Re-Plantes</h1>

@@ -50,9 +50,9 @@ const Events = () => {
 
   const pastEvents = [
     {
-      title: "Événement de Mai - Grande Vente",
-      date: "15 Mai 2023",
-      description: "Notre plus grande vente de l'année avec plus de 300 plantes sauvées.",
+      title: "Événement de Mai - Association la Sirène",
+      date: " 7 et 8 Mai 2025",
+      description: "Plantes fleuries d'intérieur, Plantes aromatiques et Prix solidaire entre l€ et 25€",
       image: "/src/Assets/06_communication-evenements/affiche-evenement-mai.jpeg",
       attendees: "150+ visiteurs"
     },
