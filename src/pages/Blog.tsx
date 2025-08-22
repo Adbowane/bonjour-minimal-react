@@ -15,7 +15,7 @@ export default function Blog() {
       author: "Anne Viossat",
       date: "2024-01-10",
       readTime: "5 min",
-      image: "/src/Assets/03_plantes/adoption-plantes-fleurs-succes.webp",
+      image: "/Assets/03_plantes/adoption-plantes-fleurs-succes.webp",
       featured: true
     },
     {
@@ -26,7 +26,7 @@ export default function Blog() {
       author: "Équipe Re-Plantes",
       date: "2024-01-08",
       readTime: "7 min",
-      image: "/src/Assets/04_boutique-magasin/etageres-exposition-magasin.webp",
+      image: "/Assets/04_boutique-magasin/etageres-exposition-magasin.webp",
       featured: true
     },
     {
@@ -37,7 +37,7 @@ export default function Blog() {
       author: "Marie, bénévole",
       date: "2024-01-05",
       readTime: "4 min",
-      image: "/src/Assets/02_fleurs-bouquets/fleurs-sechees-assortiment.webp",
+      image: "/Assets/02_fleurs-bouquets/fleurs-sechees-assortiment.webp",
       featured: false
     },
     {
@@ -48,7 +48,7 @@ export default function Blog() {
       author: "Jean, passionné",
       date: "2024-01-03",
       readTime: "6 min",
-      image: "/src/Assets/02_fleurs-bouquets/farandoles-fleurs-colorees.webp",
+      image: "/Assets/02_fleurs-bouquets/farandoles-fleurs-colorees.webp",
       featured: false
     },
     {
@@ -59,7 +59,7 @@ export default function Blog() {
       author: "Anne Viossat",
       date: "2024-01-01",
       readTime: "8 min",
-      image: "/src/Assets/03_plantes/plantes-exterieur-exposition.webp",
+      image: "/Assets/03_plantes/plantes-exterieur-exposition.webp",
       featured: false
     },
     {
@@ -70,7 +70,7 @@ export default function Blog() {
       author: "Anne Viossat",
       date: "2023-12-28",
       readTime: "10 min",
-      image: "/src/Assets/04_boutique-magasin/vitrine-accueil-boutique-300x148.webp",
+      image: "/Assets/04_boutique-magasin/vitrine-accueil-boutique-300x148.webp",
       featured: false
     }
   ];

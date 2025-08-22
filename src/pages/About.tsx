@@ -11,7 +11,7 @@ const About = () => {
       name: "Anne Viossat",
       role: "Fondatrice",
       description: "Passionnée de plantes, Anne a créé Re-Plantes pour donner une seconde chance aux végétaux délaissés.",
-      image: "/src/Assets/06_communication-evenements/moment-echange-client.webp"
+      image: "/Assets/06_communication-evenements/moment-echange-client.webp"
     }
   ];
 
@@ -26,19 +26,19 @@ const About = () => {
     {
       name: "Bordeaux Métropole",
       description: "Soutien institutionnel",
-      logo: "/src/Assets/08_medias-logos-partenaires/logo-partenaire-bordeaux-metropole.webp",
+      logo: "/Assets/08_medias-logos-partenaires/logo-partenaire-bordeaux-metropole.webp",
       type: "Partenaire institutionnel"
     },
     {
       name: "Région Nouvelle-Aquitaine", 
       description: "Financement régional",
-      logo: "/src/Assets/08_medias-logos-partenaires/logo-region-nouvelle-aquitaine.webp",
+      logo: "/Assets/08_medias-logos-partenaires/logo-region-nouvelle-aquitaine.webp",
       type: "Partenaire financier"
     },
     {
       name: "France 3 Aquitaine",
       description: "Couverture médiatique",
-      logo: "/src/Assets/08_medias-logos-partenaires/logo-media-france3.png",
+      logo: "/Assets/08_medias-logos-partenaires/logo-media-france3.png",
       type: "Partenaire média"
     }
   ];
@@ -118,12 +118,12 @@ const About = () => {
             </div>
             <div className="relative space-y-6">
               <img
-                src="/src/Assets/04_boutique-magasin/vitrine-accueil-boutique.webp"
+                src="/Assets/04_boutique-magasin/vitrine-accueil-boutique.webp"
                 alt="Vitrine d'accueil de la boutique Re-Plantes"
                 className="rounded-2xl shadow-2xl w-full"
               />
               <img
-                src="/src/Assets/03_plantes/plantes-adoptees-seconde-vie.webp"
+                src="/Assets/03_plantes/plantes-adoptees-seconde-vie.webp"
                 alt="Plantes récupérées"
                 className="rounded-2xl shadow-lg w-full"
               />
@@ -406,7 +406,7 @@ const About = () => {
             <Card className="overflow-hidden border-green-100 hover:shadow-lg transition-shadow">
               <div className="aspect-video relative">
                 <img
-                  src="/src/Assets/07_lieux-partenaires/partenaire-boutique-ikos.webp"
+                  src="/Assets/07_lieux-partenaires/partenaire-boutique-ikos.webp"
                   alt="Boutique partenaire IKOS"
                   className="w-full h-full object-cover"
                 />
@@ -425,7 +425,7 @@ const About = () => {
             <Card className="overflow-hidden border-green-100 hover:shadow-lg transition-shadow">
               <div className="aspect-video relative">
                 <img
-                  src="/src/Assets/07_lieux-partenaires/lieu-maison-ecocitoyenne.webp"
+                  src="/Assets/07_lieux-partenaires/lieu-maison-ecocitoyenne.webp"
                   alt="Maison écocitoyenne"
                   className="w-full h-full object-cover"
                 />

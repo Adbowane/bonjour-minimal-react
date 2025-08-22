@@ -11,19 +11,19 @@ const Index = () => {
       title: "Vente de plantes d'intérieur",
       date: "15 Mars 2024",
       location: "Atelier Re-Plantes",
-      image: "/src/Assets/06_communication-evenements/ardoise-prix-information.webp"
+      image: "/Assets/06_communication-evenements/ardoise-prix-information.webp"
     },
     {
       title: "Atelier rempotage",
       date: "22 Mars 2024", 
       location: "Maison Écocitoyenne",
-      image: "/src/Assets/06_communication-evenements/moment-echange-client.webp"
+      image: "/Assets/06_communication-evenements/moment-echange-client.webp"
     },
     {
       title: "Collection Neighborhood",
       date: "29 Mars 2024",
       location: "Boutique IKOS",
-      image: "/src/Assets/05_collections-specialisees/collection-bouquet-neighborhood-300x300.webp"
+      image: "/Assets/05_collections-specialisees/collection-bouquet-neighborhood-300x300.webp"
     }
   ];
 
@@ -79,7 +79,7 @@ const Index = () => {
             </div>
             <div className="relative">
               <img
-                src="/src/Assets/02_fleurs-bouquets/bouquets-adoptes-heureux.webp"
+                src="/Assets/02_fleurs-bouquets/bouquets-adoptes-heureux.webp"
                 alt="Bouquets adoptés et heureux dans leur nouveau foyer"
                 className="rounded-2xl shadow-2xl w-full"
               />
@@ -124,12 +124,12 @@ const Index = () => {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="/src/Assets/03_plantes/adoption-plantes-fleurs-succes.webp"
+                src="/Assets/03_plantes/adoption-plantes-fleurs-succes.webp"
                 alt="Succès d'adoption de plantes et fleurs"
                 className="rounded-xl shadow-lg"
               />
               <img
-                src="/src/Assets/04_boutique-magasin/etageres-exposition-magasin.webp"
+                src="/Assets/04_boutique-magasin/etageres-exposition-magasin.webp"
                 alt="Étagères d'exposition dans notre magasin"
                 className="rounded-xl shadow-lg mt-8"
               />

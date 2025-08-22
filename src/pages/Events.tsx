@@ -12,7 +12,7 @@ const Events = () => {
       time: "10h00 - 17h00",
       location: "Atelier Re-Plantes, Bordeaux",
       description: "Grande vente de plantes d'intérieur remises en beauté. Cyclamens, primevères, et bien d'autres !",
-      image: "/src/Assets/06_communication-evenements/ardoise-prix-information.webp",
+      image: "/Assets/06_communication-evenements/ardoise-prix-information.webp",
       price: "2€ - 15€",
       status: "Inscription ouverte"
     },
@@ -22,7 +22,7 @@ const Events = () => {
       time: "14h00 - 16h00",
       location: "Maison Écocitoyenne, Bordeaux",
       description: "Apprenez les bases du rempotage avec nos experts. Matériel fourni.",
-      image: "/src/Assets/06_communication-evenements/moment-echange-client.webp",
+      image: "/Assets/06_communication-evenements/moment-echange-client.webp",
       price: "15€",
       status: "Places limitées"
     },
@@ -32,7 +32,7 @@ const Events = () => {
       time: "11h00 - 19h00", 
       location: "Boutique IKOS, Bordeaux",
       description: "Découverte de notre collection spécialisée avec des variétés uniques et rares.",
-      image: "/src/Assets/05_collections-specialisees/collection-bouquet-neighborhood-300x300.webp",
+      image: "/Assets/05_collections-specialisees/collection-bouquet-neighborhood-300x300.webp",
       price: "Gratuit",
       status: "Événement public"
     },
@@ -42,7 +42,7 @@ const Events = () => {
       time: "15h00 - 17h00",
       location: "Atelier Re-Plantes",
       description: "Créez vos propres bouquets séchés à partir de nos fleurs récupérées.",
-      image: "/src/Assets/02_fleurs-bouquets/fleurs-sechees-assortiment.webp",
+      image: "/Assets/02_fleurs-bouquets/fleurs-sechees-assortiment.webp",
       price: "20€",
       status: "Bientôt ouvert"
     }
@@ -53,14 +53,14 @@ const Events = () => {
       title: "Événement de Mai - Association la Sirène",
       date: " 7 et 8 Mai 2025",
       description: "Plantes fleuries d'intérieur, Plantes aromatiques et Prix solidaire entre l€ et 25€",
-      image: "/src/Assets/06_communication-evenements/affiche-evenement-mai.jpeg",
+      image: "/Assets/06_communication-evenements/affiche-evenement-mai.jpeg",
       attendees: "150+ visiteurs"
     },
     {
       title: "Présentation du projet",
       date: "10 Avril 2023", 
       description: "Lancement officiel de Re-Plantes avec présentation de notre mission.",
-      image: "/src/Assets/06_communication-evenements/presentation-evenement-scaled.jpeg",
+      image: "/Assets/06_communication-evenements/presentation-evenement-scaled.jpeg",
       attendees: "80+ participants"
     }
   ];

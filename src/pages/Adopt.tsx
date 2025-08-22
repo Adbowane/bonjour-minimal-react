@@ -22,13 +22,13 @@ const Adopt = () => {
       name: "Collection Hiver",
       plants: "Cyclamens, Hellébores, Primevères",
       description: "Plantes résistantes au froid pour égayer votre hiver",
-      image: "/src/Assets/05_collections-specialisees/winter-collection.png"
+      image: "/Assets/05_collections-specialisees/winter-collection.png"
     },
     {
       name: "Collection Débutants",
       plants: "Plantes grasses, Pothos, Sansevieria",
       description: "Plantes faciles d'entretien pour commencer",
-      image: "/src/Assets/05_collections-specialisees/beginner-collection.png"
+      image: "/Assets/05_collections-specialisees/beginner-collection.png"
     }
   ];
   const availablePlants = [
@@ -37,7 +37,7 @@ const Adopt = () => {
       name: "Cyclamen",
       price: "3€",
       description: "Remis en beauté après décoration événementielle",
-      image: "/src/Assets/03_plantes/adoption-plantes-fleurs-succes.webp",
+      image: "/Assets/03_plantes/adoption-plantes-fleurs-succes.webp",
       status: "Disponible",
       care: "Facile",
       condition: "En pleine forme",
@@ -49,7 +49,7 @@ const Adopt = () => {
       name: "Primevères",
       price: "2€",
       description: "Variétés colorées en parfait état",
-      image: "/src/Assets/02_fleurs-bouquets/farandoles-fleurs-colorees.webp",
+      image: "/Assets/02_fleurs-bouquets/farandoles-fleurs-colorees.webp",
       status: "Disponible",
       care: "Facile",
       condition: "Bonne",
@@ -61,7 +61,7 @@ const Adopt = () => {
       name: "Plantes d'extérieur",
       price: "5€ - 15€",
       description: "Sélection variée pour jardins et terrasses",
-      image: "/src/Assets/03_plantes/plantes-exterieur-exposition.webp",
+      image: "/Assets/03_plantes/plantes-exterieur-exposition.webp",
       status: "Stock limité",
       care: "Modéré",
       condition: "En pleine forme",
@@ -73,7 +73,7 @@ const Adopt = () => {
       name: "Collection Neighborhood",
       price: "8€ - 12€",
       description: "Variétés spécialisées et rares",
-      image: "/src/Assets/05_collections-specialisees/collection-bouquet-neighborhood-300x300.webp",
+      image: "/Assets/05_collections-specialisees/collection-bouquet-neighborhood-300x300.webp",
       status: "Collection spéciale",
       care: "Expert",
       condition: "En pleine forme",
@@ -132,7 +132,7 @@ const Adopt = () => {
             </div>
             <div className="relative">
               <img
-                src="/src/Assets/02_fleurs-bouquets/bouquets-adoptes-heureux.webp"
+                src="/Assets/02_fleurs-bouquets/bouquets-adoptes-heureux.webp"
                 alt="Bouquets adoptés dans leur nouveau foyer"
                 className="rounded-2xl shadow-2xl w-full"
               />
@@ -616,7 +616,7 @@ const Adopt = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="/src/Assets/05_collections-specialisees/ambiance-neighborhood-concept.webp"
+                src="/Assets/05_collections-specialisees/ambiance-neighborhood-concept.webp"
                 alt="Ambiance de notre collection Neighborhood"
                 className="rounded-2xl shadow-xl w-full"
               />
