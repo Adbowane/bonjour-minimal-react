@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "0.0.0.0",
     port: 8080,
-    allowedHosts: ["re-plant.onrender.com"],
+    allowedHosts: ["re-plant.onrender.com","re-plante.onrender.com"],
   },
   plugins: [
     react(),
